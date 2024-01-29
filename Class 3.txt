@@ -1,0 +1,13 @@
+Class 3:-
+
+Features of Java:
+1) Simple
+2) Object Oriented
+3) Platform Independent
+4) Architecture Neutral
+5) Portable
+6) Robust
+7) Secure
+8) High Performance
+9) Multi-Threaded
+10) Distributed
